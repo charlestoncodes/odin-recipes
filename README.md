@@ -1,6 +1,6 @@
 # odin-recipes
 
-Project Name; Odin Recipes
-Project Details: This html based website will detail a variety of simple recipes the user can follow.
+Project Name: Odin Recipes
+Project Details: This is a basic html website show casing the ability to create relative links to multiple pages as well as present stylized html content.
 
-Skills: I know basic HTML and that is it. This will serve as a template to keep evolving as my skills develop.
+It features 3 different homemade recipes to prepare chicken in tasty ways.
